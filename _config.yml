@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: "Killian O'Brien"
-title: Implementation Specialist
+title: Technical Implementation Manager
 email: killian@killianobrien.dev
 # email_title: Email (Email title override)
 phone: (423) 314-2104
@@ -84,7 +84,7 @@ content:
     content:
       - layout: right
         title: GEMMS
-        sub_title: Implementation Specialist
+        sub_title: Technical Implementation Manager
         caption: January 2021 - Present
         link: https://gemmsone.com/
         quote: >
@@ -111,7 +111,7 @@ footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass

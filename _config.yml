@@ -50,7 +50,7 @@ linkedin_username: KillianOBrien
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ![alt text](/images/profile.jpg "Headshot Image")
+about_profile_image: "/images/profile.jpg"
 about_content: | # this will include new lines to allow paragraphs
   I’m Killian O'Brien, a results-driven Technical Implementation Manager with a passion for software systems maintenance, customization, and optimization. At Gateway Electronic Medical Management Systems, I ensure that our software solutions not only meet but exceed client expectations by integrating process improvements and custom features that enhance functionality.
   With a background in .NET Core, Object-Oriented Programming (OOP), and database management, I work closely with DBAs and engineers to streamline support tools and improve system performance. My ability to communicate fluently in English and Spanish enables me to engage with a diverse client base, ensuring seamless project execution.

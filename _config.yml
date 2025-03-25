@@ -52,13 +52,11 @@ linkedin_username: KillianOBrien
 # about_title: About Me (Use this to override about section title)
 about_profile_image: ![alt text](/images/profile.jpg "Headshot Image")
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I’m Killian O'Brien, a results-driven Technical Implementation Manager with a passion for software systems maintenance, customization, and optimization. At Gateway Electronic Medical Management Systems, I ensure that our software solutions not only meet but exceed client expectations by integrating process improvements and custom features that enhance functionality.
+  With a background in .NET Core, Object-Oriented Programming (OOP), and database management, I work closely with DBAs and engineers to streamline support tools and improve system performance. My ability to communicate fluently in English and Spanish enables me to engage with a diverse client base, ensuring seamless project execution.
+  Beyond my current role, my experience spans software development, general contracting, underground utility locating, and sales, giving me a well-rounded perspective on problem-solving and project management. I take pride in my adaptability and commitment to delivering high-quality technical solutions.
+  
+  Let’s connect and discuss how I can bring value to your team or project!
 
 content:
   #- title: Projects # Title for the section
@@ -90,25 +88,22 @@ content:
         caption: January 2021 - Present
         link: https://gemmsone.com/
         quote: >
-          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Ensure that software systems are properly maintained, fully functional, and optimized to meet client needs. I install, configure, and customize software solutions, tailoring them to align with specific operational requirements. Working closely with DBAs and engineering teams, I contribute to feature enhancements, troubleshoot issues, and develop tools to streamline support processes. Additionally, I serve as the primary knowledge holder for multiple product lines, providing critical expertise to support teams, guide implementations, and drive continuous improvements in system performance and functionality.
   - title: Education
     layout: list
     content:
       - layout: top-right
         title: Indiana University - Purdue University - Indianapolis
         sub_title: BA Science
-        quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Computer Science
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      I’m a dedicated father of two, balancing homeschooling during the day with my professional career in the evenings. Alongside my work, I’m currently pursuing the IBM DevOps and Software Engineering Professional Certificate, continuously expanding my technical expertise.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      My background as a gymnast from age five through college instilled in me a strong foundation in time management, discipline, and prioritization—skills that seamlessly translate into both my personal and professional life. Juggling multiple responsibilities has sharpened my ability to stay focused, adapt quickly, and tackle challenges head-on.
 
 # Footer
 footer_show_references: true

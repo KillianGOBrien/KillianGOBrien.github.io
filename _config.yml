@@ -95,9 +95,9 @@ content:
     content:
       - layout: top-right
         title: Indiana University - Purdue University - Indianapolis
-        sub_title: BA Science
+        sub_title: "Bachelor's of Science\nComputer Science"
         description: | # this will include new lines to allow paragraphs
-          Computer Science
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

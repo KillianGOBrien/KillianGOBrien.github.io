@@ -1,0 +1,4 @@
+- name: Install Bundler and Dependencies
+  run: |
+    gem install bundler
+    bundle install
